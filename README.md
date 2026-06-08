@@ -31,3 +31,8 @@ To ensure accuracy and stability, the project was engineered using the following
 
 ### 2. Touch Sensor Simulation
 ![Touch Sensor Simulation](./simulation2.PNG)
+
+
+https://github.com/user-attachments/assets/01d62b63-043c-40d9-9566-321137941ca8
+
+
