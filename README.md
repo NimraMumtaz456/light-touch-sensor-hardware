@@ -24,5 +24,12 @@ To ensure accuracy and stability, the project was engineered using the following
 
 ## 📂 Project Deliverables & Media
 * 📄 [Read the Technical Lab Report](./Hardware_Project_Report.pdf) * 📊 [View Presentation Slides](./Hardware_Presentation.pdf)
-* simulation1.png
-* simulation2.png
+---
+
+## 📊 Circuit Simulations
+
+### 1. Light Detector Simulation
+![Light Detector Simulation](./simulation1.PNG)
+
+### 2. Touch Sensor Simulation
+![Touch Sensor Simulation](./simulation2.PNG)
